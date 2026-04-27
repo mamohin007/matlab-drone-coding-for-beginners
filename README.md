@@ -18,9 +18,7 @@ The book provides the full step-by-step explanation, basic theory, MATLAB code w
 If you find this repository useful, you can support the project by purchasing the companion book.
 
 **Available on Amazon:**  
-[MATLAB Drone Coding for Beginners: From Hover Thrust to PID Altitude Control - Paperback](https://www.amazon.co.uk/MATLAB-Drone-Coding-Beginners-Altitude/dp/B0GW3BQYMD)
-
-So replace the Amazon section with this:
+[MATLAB Drone Coding for Beginners: From Hover Thrust to PID Altitude Control - Paperback](https://www.amazon.co.uk/dp/B0GW3BQYMD)
 
 ## Projects Included
 
