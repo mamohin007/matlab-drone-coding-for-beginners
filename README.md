@@ -1,8 +1,24 @@
 # MATLAB Drone Coding for Beginners
 
+**Companion code repository for the book _MATLAB Drone Coding for Beginners: From Hover Thrust to PID Altitude Control_ by Dr Ma Mohin.**
+
 This repository contains MATLAB code examples for beginner-friendly quadcopter modelling and altitude control.
 
-The projects support the learning journey from basic hover thrust calculation to PID altitude control and controller comparison.
+The projects support the learning journey from basic hover thrust calculation to PID altitude control and controller comparison. Each script is designed as a simple standalone MATLAB project so that students, beginners, and researchers can run the code, study the plots, and modify parameters to understand drone behaviour.
+
+## Companion Book
+
+These MATLAB scripts are designed to be used alongside the full book:
+
+**MATLAB Drone Coding for Beginners: From Hover Thrust to PID Altitude Control**  
+by **Dr Ma Mohin**
+
+The book provides the full step-by-step explanation, basic theory, MATLAB code walkthroughs, expected outputs, result interpretation, common mistakes, and practice tasks for each project.
+
+If you find this repository useful, you can support the project by purchasing the companion book.
+
+**Available on Amazon:**  
+[Paste your Amazon book link here]
 
 ## Projects Included
 
