@@ -1,18 +1,20 @@
 cff-version: 1.2.0
-title: "MATLAB Drone Coding for Beginners"
-message: "If you use this code, please cite the associated book and this repository."
-type: software
+title: "MATLAB Drone Coding for Beginners: From Hover Thrust to PID Altitude Control"
+message: "If you use this repository, please cite the companion book."
+type: book
 authors:
   - family-names: Mohin
     given-names: Ma
 year: 2026
+url: "https://www.amazon.co.uk/MATLAB-Drone-Coding-Beginners-Altitude/dp/B0GW3BQYMD"
 repository-code: "https://github.com/mamohin007/matlab-drone-coding-for-beginners"
-abstract: "MATLAB code examples for beginner-friendly quadcopter modelling and PID altitude control."
+abstract: "A beginner-friendly project-based book introducing MATLAB drone modelling, hover thrust, vertical motion, step and ramp motor inputs, and P, PD, PI, and PID altitude control."
 keywords:
   - MATLAB
   - drone
   - quadcopter
+  - UAV
   - PID control
   - altitude control
+  - drone modelling
   - engineering education
-license: "LicenseRef-Educational-NonCommercial"
